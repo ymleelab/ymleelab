@@ -65,10 +65,8 @@
 <div align="center">
   <p>🏆 Baekjoon solved rank & github stats 🏆</p>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minlee72)](https://solved.ac/minlee72/)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=minlee72&theme=cold)
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ymleelab&show_icons=true"><br><br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minlee72)](https://solved.ac/minlee72/)<br>
+<!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=minlee72&theme=cold) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymleelab&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ymleelab&show_icons=true"><br><br>
 </div>
